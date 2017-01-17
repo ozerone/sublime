@@ -1,0 +1,11 @@
+{
+        "scope": "text.tex.latex string.other.math, text.tex.latex meta.environment.math",
+
+        "completions":
+        [
+                { "trigger": "inf", "contents": "\\infty" },
+		{ "trigger": "as", "contents": "\\ast" },
+		{ "trigger": "ast", "contents": "^\\ast" },
+		
+        ]
+}

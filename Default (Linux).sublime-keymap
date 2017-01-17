@@ -1,0 +1,13 @@
+[
+	{ "keys": ["ctrl+,"], "command": "delete_word", "args": { "forward": false } },
+	{ "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+	{ "keys": ["ctrl+j"], "command": "move", "args": {"by": "characters", "forward": false} },
+	{ "keys": ["ctrl+l"], "command": "move", "args": {"by": "characters", "forward": true} },
+	{ "keys": ["ctrl+;"], "command": "run_macro_file", "args": {"file": "Packages/User/endinside.sublime-macro"} },
+	{ "keys": ["ctrl+w"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+	{ "keys": ["ctrl+i"], "command": "move", "args": {"by": "lines", "forward": false} },
+	{ "keys": ["ctrl+k"], "command": "move", "args": {"by": "lines", "forward": true} },
+	{ "keys": ["ctrl+'"], "command": "expand_selection", "args": {"to": "line"} },
+	{ "keys": ["ctrl+tab"], "command": "toggle_side_bar" },
+
+]

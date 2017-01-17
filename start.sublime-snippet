@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+\documentclass[12pt,a4paper]{article}
+\usepackage{amsmath,amsthm,enumerate}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+\usepackage[capitalise]{cleveref}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{remark}{Remark}[section]
+\author{Omar Yasin}
+\title{$1}
+\date{\today}
+\begin{document}
+\maketitle
+
+$0
+
+\bibliographystyle{amsref}
+\bibliography{mybib}
+\end{document}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>start</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>

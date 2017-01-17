@@ -1,0 +1,56 @@
+{
+	"added_words":
+	[
+		"Yasin",
+		"Stieltjes",
+		"compactification",
+		"involutive",
+		"unital",
+		"majorized",
+		"isometries",
+		"semigroup",
+		"isometry",
+		"abelian"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pdf",
+		"*.aux",
+		"*.out",
+		"*.log",
+		"*.gz",
+		"*.gitignore",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Appendice",
+		"abbrv",
+		"mybib"
+	]
+}
