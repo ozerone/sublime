@@ -6,6 +6,7 @@
                 { "trigger": "inf", "contents": "\\infty" },
 		{ "trigger": "as", "contents": "\\ast" },
 		{ "trigger": "ast", "contents": "^\\ast" },
+		{ "trigger": "th", "contents": "\\theta" },
 		
         ]
 }
